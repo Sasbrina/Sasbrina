@@ -1,5 +1,5 @@
 - 👋 Hi, I’m: Sabrina Machado 
-- 👀 I’m interested: in being a fullstack developer
+- 👀 I’m interested: in being a fullstack developer with IA
 - 🌱 I’m currently learning: Python, JavaScript, HTML and CSS
 - 📫 How to reach me: sabrina.rdm@outlook.com
 - ⚡ About me: Fiction lover, Painter by heart and Python & AI learner
